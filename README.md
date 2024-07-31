@@ -4,13 +4,12 @@
     Welcome to my GitHub page
 </h1>
 
-<p>
+<h2>
     You can find more things I've made on <a href="https://darienyoder.com">my website.</a>
-</p>
-
-<p>
+<br>
     Or follow me elsewhere:
-</p>
+<br><br>
+
 
 <div>
   <a href="https://universeodon.com/@Darien"><img src="https://joinmastodon.org/logos/logo-purple.svg" height="50" alt="Mastodon"  /></a>
@@ -23,8 +22,8 @@
 
 <br>
 
-<b>
-    Thanks for checking out my work!
-</b>
+Thanks for checking out my work!
+
+</h2>
 
 </div>
