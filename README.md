@@ -6,7 +6,7 @@
 
 <h2>
     You can find more things I've made on <a href="https://darienyoder.com">my website.</a>
-<br>
+<br><br>
     Or follow me elsewhere:
 <br><br>
 
