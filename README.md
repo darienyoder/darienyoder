@@ -8,9 +8,11 @@ Hi there! I make software, as you might have guessed. I mostly do frontend work,
 
 🏖️ [Sandbox](https://github.com/darienyoder/new-sand) - A cellular automata that simulates gravity, density, and temperature for up to 200,000 particles on a pixel grid. Rendered using OpenGL. [Blog Post](https://darienyoder.com/falling-sand)
 
-🐲 [Asset Hoarder](https://assethoarder.com) - **(In Progress)** Aggregates public domain assets from a variety of sources to expedite the search of music and images for video editors, game developers, and anyone else who's wasted hours just to find a 2 minute audio track.
+🐲 [Asset Hoarder](https://assethoarder.net) - **(In Progress)** Aggregates public domain assets from a variety of sources to expedite the search of music and images for video editors, game developers, and anyone else who's wasted hours just to find a 2 minute audio track.
 
 ⛳ [Minigolf Game](https://github.com/darienyoder/software-engineering-team-beta) - A university project where we made a browser game to practice AGILE software development. I was project manager on a team of 11 developers and managed our Kanban board, burndown chart, and lead our weekly standup meetings. For the game, I created a scripting language to allow my team to very quickly create and iterate upon complex levels designs. [Blog Post](https://darienyoder.com/minigolf)
+
+🧩 [Crossword Builder](https://darienyoder.com/crossword-builder/) - Generates custom crosswords given a list of words. Made to help my grandma make a Scrabble board with all the grandkids' names on it.
 
 🐶 [DestroyDog](https://github.com/darienyoder/destroydog-bookmarklet) - A silly browser bookmarklet that blows up websites.
 
